@@ -1,2 +1,4 @@
 softwares/
-softwares/
+*.zip
+*.dll
+*.exe
